@@ -14,6 +14,8 @@ In this case study, as a hypothetical PM, I dive into how would I approach desig
 **Assumptions:**
 - The user can use a mobile phone / tablet
 
+**Pain Points** - I would try to understand the pain points of potential users by surveys, interviews, focus groups and other methods. For the purpose of the case study I will assume some pain points
+
 **User Stories**
 
 <img width="533" height="273" alt="image" src="https://github.com/user-attachments/assets/0b2becc5-941e-4ea2-a0e9-85c0b76caa65" />

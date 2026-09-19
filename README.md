@@ -3,8 +3,7 @@
 
 In this case study, as a hypothetical PM, I dive into how would I approach designing such an app.
 
-**Clarifying the Scope of the App**
-- I would first want to know what is the scope of this app and would ask the following Qs:
+**Clarifying the Scope of the App** - I would first want to know what is the scope of this app and would ask the following Qs:
 - What age range are we designing for? 
 - Who are they trying to stay connected with? Children, grandchildren, spouse, caregivers, friends, or a mix?
 - What does “stay connected” mean here? Is the main need video calls, voice calls, messaging, photo sharing or all?

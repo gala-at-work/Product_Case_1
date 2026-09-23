@@ -12,7 +12,7 @@ In this case study, as a hypothetical PM, I dive into how would I approach desig
 - What is the objective of this app?
 
 **Assumptions:**
-- The user can use a mobile phone / tablet
+- The user can use a mobile phone / tablet even though the app is target to non-tech savvy users
 
 **Pain Points** - I would try to understand the pain points of potential users by surveys, interviews, focus groups and other methods. For the purpose of the case study I will assume some pain points
 
